@@ -1,17 +1,17 @@
 # Sales Conversion Optimization
 
-### Aim
+## Aim
 
 The Notebook presented here is part of a side - project, attempting to use Machine Learning to predict nr. of Conversions
 of Facebook Ads.
 
-### The Data
+## The Data
 
 The dataset was pulled from kaggle and can be found via the following link:
 
 https://www.kaggle.com/datasets/loveall/clicks-conversion-tracking?resource=download
 
-### Outcome
+## Outcome
 
 The Machine Learning models for regression (predicting number of conversions based on Impressions, Clicks, and Ad Spent),
 as well as for classification (predicting whether any conversion would happen at all based on the same features)
