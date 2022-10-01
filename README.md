@@ -5,7 +5,7 @@
 The Notebook presented here is part of a side - project, attempting to use Machine Learning to predict nr. of conversions
 of Facebook Ads.
 
-It should be noted that the dataset provided from kaggle was **not** originally intended for to be used for
+It should be noted that the dataset provided from kaggle was **not** originally intended to be used for
 machine learning predictions, but rather for exploratory analysis.
 The use of ML was mostly aimed at practicing ML - related skills.
 
