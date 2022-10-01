@@ -7,7 +7,8 @@ of Facebook Ads.
 
 It should be noted that the dataset provided from kaggle was **not** originally intended to be used for
 machine learning predictions, but rather for exploratory analysis.
-The use of ML was mostly aimed at practicing ML - related skills.
+
+The use of ML in this project was mostly aimed at practicing ML - related skills.
 
 ## The Data
 
